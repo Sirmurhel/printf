@@ -83,4 +83,4 @@ If an output error is encountered, a negative value (-1) is returned.
 .I printf(3)
 .SH BUGS
 .SH AUTHORS
-Zion Samuel and Mista Zidane Nhany, ALX cohort 10.
+Zion Samuel and Richard Rodrot, ALX cohort 10.
